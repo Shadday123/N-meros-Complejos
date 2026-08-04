@@ -64,4 +64,4 @@ No se requieren librerías externas.
 
 David Shadday Correa Gonzalez
 
-Proyecto desarrollado como parte del curso de programación utilizando Python.
+Proyecto desarrollado como parte del curso de CNYT utilizando Python.
